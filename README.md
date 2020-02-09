@@ -1,2 +1,2 @@
-# book_reviews
-Some thoughts on books that I have read
+### What's this?
+Here are some thoughts on books that I have read. For right now this is the raw content of a future blog. Stay tuned...
