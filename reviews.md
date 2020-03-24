@@ -157,7 +157,6 @@ These kinds of histories make me think about the next generation of women innova
 
 
 __Some notes__
-
 General theme - impressed by Grace Hopper's contributions to programming
 - Invention of subroutines - she wrote them down in notebooks to share with others 1944 (p. 37)
   - Began commenting in the code, similar to when she was teaching at Vassar - get students to write essays about math problems
@@ -195,13 +194,74 @@ Cathy Marshall - Invented hypermedia system of linking resource (via 'cards' - H
 
 
 
+New Dark Age by James Bridle
+Verso 2018
+
+
+Reading New Dark Age by James Bridle affirmed a pattern that I've been noticing across the handful of discplines that I follow — namely that computational complexity is making the world less legible despite the technological optimism that gives rise to the complexity in the first place.
+
+Here's an example. I used to take the bus everywhere, and I've used various different bus systems in different sized cities across the United States. From my perspective as a passenger, the biggest problem that I saw with transportation was that there wasn't enough buses lines and the existing bus lines didn't operate at a high enough frequency to be useful. Now I live in a city that forces me to drive everywhere (although I've taken the bus here before, and it works fine in many circumstances). Recently, the tri-county area has been considering revamping the area's transportation options. Many transportation wonks in the area have been praising the rise of driverless cars or ride-sharing services as a solution to the lack of public transportation. From the perspective of someone who used transportation, it kind of sounds like misplaced technological optimism that leaves fundamental questions unanswered: Why would the absence of a human driver increase access to affordable transportation? How would ride-sharing be anymore efficient than a municipal or regional public transportation option? With the overhead of costs in researching and implementing such technological solutions, couldn't that money just go into more buses?
+
+Looking at this discussion play out reminds me of a point that Bridle makes early on — the tools that we give ourselves to fix problems in the world govern the metaphors that we create for understanding those problems. Lately the tools that we've been using to imagine these problems involve a level of computational complexity that arguably paralyzes us from acting on the problems at hand. Bridle uses various examples throughout the book of how this computationally-intensive approaches have actually been less effictive in solving problems. My favorite example from the book is with drug discovery and the effects of Eroom's Law — where drug development has actually gotten slower despite all of the developments in computational solutions to finding new drugs. One potential cause for this trend is that there is less basic research and more brute-force testing with techniques like high-throughput screening. It used to be that there were small teams of specialists working on drug discovery where they would do phenotypic screening where you observe the effects of the drug first, and then investigate the target of action in the process called 'classical pharmacology'. With the rise of computational solutions, many labs now do 'reverse pharmacology' where they determine the target first, and then try to find compounds to act on that target and test them in bulk through processes like high-throughput screening. The first time that I discovered that this is how drug discovery happens, I was turned off from the field. What happened to chemists going on adventures to far away places in the world to find new plant molecules to treat diseases. Scientists used to have these neat specialties in small groups of compounds — for example, I had a chemist friend in college whose specialty was in complex organic acids produced by lichens. Nowadays drug discovery is governed by a group of computational hot-shot scientists that don't have any specialized knowledge in compounds, but rather approach the problem as a brute-force computational puzzle.
+
+Another example that Bridle gives of the paralyzing ineffectiveness of complexity is that of surveillance. One one side, the power of modern governments to conduct surveillance on citizens at unprecedented scales has yielded relatively few leads relative to traditional surveillance methods. However, the same is true for countersurveillance efforts by organizations that expose and leak details of the innner-workings of governments that conduct the surveillance. When I first read this I was initially taken back, as I generally support these efforts at exposing these aspects of the government. How could more leaks be bad? Consider how many details have been leaked about government surveillance programs, and how complicated it all is. Few policy makers understood the details enough to follow the Snowden leaks. Many elected representatives don't even understand how browser cookies work. Yet we're still awash in the details of all leaks like this with the false impression that more information about a complicated problem will allow us to solve it in the end. In reality, these details give the situation a false facade of legibility, and if anything it's harder to act than ever. Bridle cites a strategy that Julian Assange lays out in his essay 'Conspiracy as Governance', where the effect of the leaks is to destabilize the organization that the leaks target. The goal has always been to use the leaks as a weapon, rather changing institutions. In this light, it makes sense that virtually no serious action has been taken to stop government serveillance, as that was never the point.
+
+A main thesis of New Dark Age is that we're at an intellectual dead end after collecting so much data about our rapidly changing world. At first glance, it seems like kind of a bleak note to base a book around. Yet Bridle frames it as a problem of re-imagining the tools that he have at our disposal. We may actually already have the platforms and infrastrucure for solving the problems. Something that I'm hopeful for is that in addition to re-imagining our tools, we re-imagine some disciplines to allow for more creativity. Bridle cites a point that the biochemist Erwin Chargaff makes about the role of Homo ludens in science against the role of investors. We may just have to be more playful with the problems at hand in order to make for better solutions to them. The point is also to act on our data instead of thinking that data is the answer itself.
 
 
 
-
-
-
-
+__Some notes__
+- Technology is not just making tools, but making metaphores to understand the world (p. 13)
+  - Project of re-imaginig our tools - make new metaphors to enchant/understand the world
+  - When you're a hammer, everything looks like a nail
+  - Peace Corps aid work - the problems have to be the ones that are legible to bureaucrats in Washington
+    - We set out to have solutions to problems that we perceive through the lens of the technology that we want to deploy to fix it
+    - See crop yield as the problems when we already know the solution - more pesticides/fertilizer
+  - Taking the bus - a bunch of transportation apps try to pitch the driverless cars thing to help the transportation sector
+    - But really the problem is that people don't have access to transport
+    - Could be as simple as just having more bus lines so that people could travel for cheap
+    - Instead we're looking to the tech sector to define the problems before just using the old fashioned solution
+- Point in which computation slid out of view (p. 29)
+  - Used to be that you could hear the parts of the process and know which parts of the problem the machin was working on
+  - But eventually got so complex that you could have ballistics computations going on in plain sight in downtown New York
+    - IBM SSEC New York 1948
+- Now complexity and opacity renders the process as illegible (p. 40)
+  - Gives rise to faith in the machine - automation bias
+    - Value automated decision making over our own experiences even when it contradicts our own judgement 
+  - Then amplified by confirmation bias - when we reshape our way of looking at the world to bring it in line with automated info
+- Feedback: in nature - clear-air turbulence (p. 69)
+  - We create more CO2 by flying planes, but that CO2 in the atmosphere creates more clear-air turbulence, making it harder to fly planes
+- Computation making progress harder: Eroom's law with drugs (p. 93)
+  - More and more computational power is going into develop drugs (like high-throughput screening)
+  - But there's the trend that novel drug discovery is actually slowing down
+  - Could be because the 'reverse pharmacology' approach of going from disease target molecule, and then try to find the thing that interacts with it
+    - Contrary to 'classical pharmacology' where you test drugs in an animal model, and then if they work determine the target
+  - 'Basic research/brute force' problem
+    - High-throughput screening as a form of automation bias
+    - Used to be small teams of specialists that studied groups of molecules - knowledge of specific types of chemicals
+    - Now it's all automated testing against broad groups of chemicals
+  - I always like specialists that know a bunch about individual groups of chemicals - like Molecule of the Month
+    - They know so much about such a little group of things - lively group
+      - Think about Rosco who knew a bunch about lichen acids
+    - But know it's a bunch of computation hot-shot people that don't have that granular knowledge of small sub-fields
+  - Computational pharmacology is documenting its decline
+    - Erwin Chargaff (1974) - testifying about the decline of scientific imagination
+      - Homo ludens dominated by corporate finance
+      - Need to re-introduce Homo ludens (imagination/playfulness) into science
+- Technology as a reification of a set of beliefs (p. 142)
+  - Predictive policing - better at predicting policing practices than predicting crimes
+  - Anything but neuatral - entangled in history
+  - Possibly not even effective
+- Does shedding more light on the problem of sureveillance actually fix it? (p. 180 - 184)
+  - Sureveillance agencies see that collecting more data facillitates stopping bad things before they happen
+    - But even internal reviews show that it's not essential to preventing attacks and that traditional leads worked just as well
+  - When Snowden/Wikileaks expose inner workings, it gives us the false illusion of understanding and possibly countering their effects
+    - We operate under the same logic of knowing more data can possibly counter the problem - but is that actually the case?
+    - Same logic of transparency as antidote to secrecy
+    - Even Assange states that the act of leaking itself is damaging to power, rather than the contents of the leak
+  - Similar to climate crisis - where we're striving for 100% accuracy in our hypothesis before acting on it
+    - Yet it's urgent, and gathering more data and trying to analyze it is preventing us from acting on it
+- We're at an intellectual dead-end after gathering so much data (p. 248)
 
 
 
