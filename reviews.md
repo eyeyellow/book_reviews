@@ -154,7 +154,7 @@ As notable as these mid-century innovations are, Evans profiles later innovators
 
 These kinds of histories make me think about the next generation of women innovating to further the development of the Internet.
 
-
+[2/13/20]
 
 __Some notes__
 General theme - impressed by Grace Hopper's contributions to programming
@@ -208,7 +208,7 @@ Another example that Bridle gives of the paralyzing ineffectiveness of complexit
 
 A main thesis of New Dark Age is that we're at an intellectual dead end after collecting so much data about our rapidly changing world. At first glance, it seems like kind of a bleak note to base a book around. Yet Bridle frames it as a problem of re-imagining the tools that he have at our disposal. We may actually already have the platforms and infrastrucure for solving the problems. Something that I'm hopeful for is that in addition to re-imagining our tools, we re-imagine some disciplines to allow for more creativity. Bridle cites a point that the biochemist Erwin Chargaff makes about the role of Homo ludens in science against the role of investors. We may just have to be more playful with the problems at hand in order to make for better solutions to them. The point is also to act on our data instead of thinking that data is the answer itself.
 
-
+[3/22/2020]
 
 __Some notes__
 - Technology is not just making tools, but making metaphores to understand the world (p. 13)
@@ -266,10 +266,58 @@ __Some notes__
 
 
 
+Uncanny Valley: A Memoir by Anna Wiener
+Farrar, Straus, and Giroux 2020
 
 
 
+Some of my favorite things to read are from moments in history where someone was at a certain place in time when it all happened and they wrote very frankly about questions that they were asking themselves as things unfolded. In Uncanny Valley, Anna Wiener has written a memoir that captures these questions about technology in the second decade of the 21st century. The trajectory that the memoir takes is one that is all to familiar to people of our generation. By 'our generation', I mean people in their early thirties that lived to see the birth of the web and still managed to hold out on adopting most of it until it consumed everything that we do. I feel like Wiener has written a book that defines my generation.
+
+One theme that stuck out the most to me was the class divide within our generation and how out of touch the tech industry is with the rest of the world. A contradiction that Wiener points out a few times is the fact that it's an industry that identifies with the values of diversity and liberalism, but is ultimately extractive in nature. From working for an out of touch book startup with no ties the publishing industry, to a data analytics company in denial about their role in surveilling people, to working at GitHub amidst controversy over diversity and sexual harassment, Weiner paints a painful picture of the industry that embodies contradictions on a multitude of levels.
+
+A part of the book that stuck with me was based around a discussion that's been happening over the last few years on the prospects of forming a tech workers union. Wiener is talking about this idea with a colleague of a working-class background who is one of those rare people to go from working an actual assembly-line job to the software industry. He points out that all of this talk isn't about solidarity with real working people, but rather about personal leverage in the industry. Rather it's the techies LARPing as the proleteriat in a 'working-class MMOG'. Wiener's working-class co-worker points out that no Ivy League computer science graduates gave a shit about him when we was exposed to asbestos. I feel that this LARPing metaphor captures this disconnect between tech workers desparately trying to find a moral highground within an exploitive industry.
+
+There are other moments of this disconnect in the book. For working at a data analytics company during the Edward Snowden revelations, the party line for the company was that they were the good guys. They weren't brokering data, but rather just helping companies collect it. Yet absent from this basic framing of the enterprise was that they were one government subpoena away from being an apparatus of the surveillance state. Another moment of this disconnect was when the support team at GitHub had to deal with moderating questionable content and complying with other countries' free speech laws. Similar to with the data analytics company overstating its neutrality with politics, many engineers at GitHub appears to be either ignorant or ambivalent about the platform's friction with their ideals of liberalism.
+
+A part of the book that brings this all together is when Wiener describes looking for an emotional story about what drove the many tech entrepreneurs in the first place. Perhaps by telling themselves stories about the positive role that tech plays in the world, it could be their way of relieving themselves of guilt about their effect on society and the planet. Perhaps everyone is just telling stories about the industry to try to humanize an exploitive power-driven system. She realizes that this excercise in training her sympathy towards these entrepreneurs is just her own way of trying to tell a positive story about the intentions behind the industry. She states:
+
+> Later, I would mourn these conceits. Not only because this version of the future was constitutionally impossible — such arbitrary and unaccountable power was, after all, the problem — but also because I was repeating myself. I was looking for stories; I should have seen a system.
+
+This passage of realization reflects what many others are now seeing when they take a closer look at the industry. It's an industry that's finding that these simple stories that we've been telling ourselves are unravelling and showcasing the naked politics and moral ambiguity at the center of all of this. Going into this next decade, we'll have to find more honest stories to tell ourselves about the impact of technology in modern affairs.
+
+[4/12/2020]
 
 
+__Some notes__
 
-
+- The years spent in dive bars with friends moaning about their impossible futures, her new friends in SF were making their first millions (p. 8)
+  - Very similar to my experience in San Francisco - growing divide of haves and have-nots of our generation
+  - Story of people left behind in our generation, grasping for updward mobility
+- Snowden revelations and effect on discussions in the data analytics company (p. 84)
+  - 'We're the good guys' - not borkering data, just helping companies collect it
+- Conversation with Noah - no difference between the two functionally (p. 127)
+  - We don't know how it was being used and by whom - one subpoena away from assisting intelligence agencies
+- Pleasures of an inefficient life (p. 137)
+  - "The fetishized life without friction" - who would prize such a life?
+- Diversity and liberalism, but for an industry that relied on exploitive extrative processes for hardware (p. 210)
+- Role of being content moderator for GitHub (p. 211)
+  - Where not many other people in the company are aware that so much garbage on the platform exists?
+  - I wasn't aware of how much GH had to be moderated
+- Profile of quickly gentrifying Mission (p. 232)
+- Annoying conversation with libertarian contrarian people at dinner parties (p. 245)
+  - What seems like light-hearted contrarianism was based on dark views of society - could it just be reactionary?
+  - Person at party: weren't abolitionists a minority view at the time?
+  - Anna: What about all of the slaves? They were surely abolitionists too. They weren't polled about it tho
+  - Person: Say for the sake or argument that we limit the sample to white people...
+  - Rationalists ahistorical view of ideas
+- Prospect of a tech workers union with someone who's actually working class (p. 250)
+  - It's not about a sense of solidarity for working people, it's about leverage
+  - They haven't showed up in the past to help actualy working people - they don't give a shit
+  - Just a LARPing - 'It's a working-class MMOG'
+  - This is just another symtpom of the disconnect of tech people with the rest of the world
+- Looking for an emotional story to tell herself about tech boys, what drove them (p. 262)
+  - Excercise in training sympathy towards them
+  - Partially a way to alleviate own guilt about working in a globally extractive industry
+  - But also a projection - you want to think that they're better than that, and there's more to it
+  - Ultimately just looking for stories, when should have seen the system (great quote)
+  - Everyone is just telling stories about the industry to try to humanize an exploitive power-driven system
